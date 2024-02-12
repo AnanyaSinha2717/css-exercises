@@ -1,0 +1,25 @@
+body {
+    font-size: 18px;
+}
+
+h3,
+h2 {
+    color: brown;
+}
+
+p {
+    color: navy;
+}
+
+.highlight {
+    text-transform: uppercase;
+    color: gold;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
